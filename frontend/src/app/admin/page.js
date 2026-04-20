@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import toast from 'react-hot-toast';
-import api from '@/lib/api';
+import api from '../../lib/api';
 import { Activity, LogOut, Users, Clock, TrendingUp, AlertTriangle, CheckCircle, MapPin } from 'lucide-react';
 import { io } from 'socket.io-client';
 
