@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@tailwindcss/postcss": "^4.2.2",
     "autoprefixer": "^10.5.0",
     "axios": "^1.15.1",
     "lucide-react": "^1.8.0",
