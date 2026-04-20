@@ -40,12 +40,6 @@ export default function LandingPage() {
             Join virtual queues from your phone. Get real-time updates and smart notifications. 
             No more sitting in crowded waiting rooms for hours.
           </p>
-          <div className="bg-red-500 p-4 rounded-lg mb-4">
-            <p className="text-white font-semibold">RED TEST BACKGROUND</p>
-          </div>
-          <div className="text-green-600 p-4 rounded-lg mb-4">
-            <p className="text-white font-semibold">GREEN TEST TEXT</p>
-          </div>
           <Link 
             href="/register"
             className="inline-flex items-center bg-blue-600 text-white px-8 py-4 rounded-lg text-lg font-semibold hover:bg-blue-700 transition-colors shadow-lg hover:shadow-xl transform hover:scale-105 transition-transform"
